@@ -5,6 +5,8 @@ A personalized travel app built during a 36-hour hackathon under the theme *Cult
 
 ---
 
+<video src="assets/Project_Demonstration (1).mp4" controls autoplay muted width="600"></video>
+
 ## Features
 - **User Authentication**: Register and log in to access personalized features.
 - **Interest-Based Recommendations**: 5-question quiz to suggest cities matching user preferences.
